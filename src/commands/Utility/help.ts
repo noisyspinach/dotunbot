@@ -24,6 +24,7 @@ type HelpableCommand = Command & {
 const CATEGORY_KEYS: Record<string, TranslationKey> = {
     utility: "categories.utility",
     other: "categories.other",
+    fun: "categories.fun",
 };
 
 function getCategoryLabel(locale: LocaleCode, category: string): string {

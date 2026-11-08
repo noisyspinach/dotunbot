@@ -15,12 +15,22 @@
 
     "categories.other": "Sonstiges",
     "categories.utility": "Werkzeuge",
+    "categories.fun": "Unterhaltung",
 
     "ping.pending": "## Ping wird ausgeführt...",
     "ping.title": "## Pong!",
     "ping.roundtrip": "Antwortzeit",
     "ping.gateway": "Gateway-Latenz",
     "ping.startup": "-# -1ms bedeutet, dass der Bot gerade gestartet wurde",
+
+    "tictactoe.botOpponent": "Du kannst nicht gegen einen Bot spielen",
+    "tictactoe.selfOpponent": "Du kannst nicht gegen dich selbst spielen!",
+    "tictactoe.versus": "❌ {x} gegen ⭕ {o}",
+    "tictactoe.turn": "{mark} {player} ist am Zug",
+    "tictactoe.notYourTurn": "Du bist nicht am Zug!",
+    "tictactoe.win": "{player} hat gewonnen!",
+    "tictactoe.draw": "Unentschieden!",
+    "tictactoe.timeout": "*Das Spiel ist abgelaufen*",
 
     "errors.noCommands": "Es sind keine Befehle verfügbar."
 }

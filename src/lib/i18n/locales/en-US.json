@@ -15,12 +15,22 @@
 
     "categories.other": "Other",
     "categories.utility": "Utility",
+    "categories.fun": "Fun",
 
     "ping.pending": "## Pinging...",
     "ping.title": "## Pong!",
     "ping.roundtrip": "Roundtrip",
     "ping.gateway": "Gateway",
     "ping.startup": "-# -1ms means the bot just started, give it a bit of time",
+
+    "tictactoe.botOpponent": "You can't play against a bot (including Rob haha)",
+    "tictactoe.selfOpponent": "You can't play with yourself!",
+    "tictactoe.versus": "❌ {x} vs ⭕ {o}",
+    "tictactoe.turn": "{mark} {player}'s turn",
+    "tictactoe.notYourTurn": "It's not your turn!",
+    "tictactoe.win": "{player} wins!",
+    "tictactoe.draw": "It was a draw!",
+    "tictactoe.timeout": "*Game timed out*",
 
     "errors.noCommands": "There are no commands available."
 }
