@@ -1,0 +1,26 @@
+{
+    "common.cancel": "Abbrechen",
+    "common.confirm": "Bestätigen",
+    "common.unknown": "Unbekannt",
+
+    "help.title": "## Hilfe zu Befehlen",
+    "help.description": "Entdecke meine verfügbaren Befehle.",
+    "help.category": "Kategorie",
+    "help.commands": "Befehle",
+    "help.placeholder": "Wähle eine Kategorie...",
+    "help.empty": "In dieser Kategorie wurden keine Befehle gefunden.",
+    "help.footer": "Verwende einen Slash-Befehl, um ihn auszuführen.",
+    "help.owned": "Dieses Hilfemenü gehört jemand anderem!",
+    "help.expired": "Dieses Menü ist abgelaufen. Verwende erneut /help.",
+
+    "categories.other": "Sonstiges",
+    "categories.utility": "Werkzeuge",
+
+    "ping.pending": "## Ping wird ausgeführt...",
+    "ping.title": "## Pong!",
+    "ping.roundtrip": "Antwortzeit",
+    "ping.gateway": "Gateway-Latenz",
+    "ping.startup": "-# -1ms bedeutet, dass der Bot gerade gestartet wurde",
+
+    "errors.noCommands": "Es sind keine Befehle verfügbar."
+}

@@ -1,0 +1,26 @@
+{
+    "common.cancel": "Cancel",
+    "common.confirm": "Confirm",
+    "common.unknown": "Unknown",
+
+    "help.title": "## Help",
+    "help.description": "Browse available commands using the menu below.",
+    "help.category": "Category",
+    "help.commands": "Commands",
+    "help.placeholder": "Choose a command category...",
+    "help.empty": "No commands found in this category.",
+    "help.footer": "Use `/command` to execute a command.",
+    "help.owned": "This help menu belongs to someone else! Run your own `/help` command.",
+    "help.expired": "This menu expired, run the command again.",
+
+    "categories.other": "Other",
+    "categories.utility": "Utility",
+
+    "ping.pending": "## Pinging...",
+    "ping.title": "## Pong!",
+    "ping.roundtrip": "Roundtrip",
+    "ping.gateway": "Gateway",
+    "ping.startup": "-# -1ms means the bot just started, give it a bit of time",
+
+    "errors.noCommands": "There are no commands available."
+}
